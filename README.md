@@ -25,5 +25,4 @@ VertexLogger-Go/
 └── README.md
 ```
 ## Structure line in log file
-
-[date]-[time] | [LEVEL] - [text] (2024-13:20 | [WARN] - Kekus)
+19.11.2026 14:17:32 | [INFO] - kekus
